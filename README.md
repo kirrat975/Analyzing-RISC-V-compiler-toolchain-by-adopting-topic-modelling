@@ -1,5 +1,5 @@
-# riscv-compiler-analysis
-# 🚀 RISC-V Compiler Analysis using Topic Modeling  
+
+# 🚀 Analyzing RISCV compiler toolchain by adopting topic modelling 
 
 This study explores **GitHub repositories** and **mailing lists** to obtain key insights using **topic modeling** and **data retrieval techniques**. It aims to assist developers in **domains with limited tutorials or documentation**, where GitHub and mailing lists are the **primary sources of knowledge**.  
 
