@@ -54,8 +54,9 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/kirrat975/riscv-compiler-analysis.git
-cd riscv-compiler-analysis
+git clone https://github.com/kirrat975/Analyzing-RISCV-compiler-toolchain-by-adopting-topic-modelling.git
+cd Analyzing-RISCV-compiler-toolchain-by-adopting-topic-modelling
+
 ```
 
 ### 2️⃣ **Install Required Dependencies**  
