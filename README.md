@@ -1,7 +1,7 @@
 
 # 🚀 Analyzing RISC-V compiler toolchain by adopting topic modelling 
 
-This study explores **GitHub repositories** and **mailing lists** to obtain key insights using **topic modeling** and **data retrieval techniques**. It aims to assist developers in **domains with limited tutorials or documentation**, where GitHub and mailing lists are the **primary sources of knowledge**.  
+This study explores **GitHub repositories** and **mailing lists** to obtain key insights using **topic modelling** and **data retrieval techniques**. It aims to assist developers in **domains with limited tutorials or documentation**, where GitHub and mailing lists are the **primary sources of knowledge**.  
 
 ### 🎯 **Project Focus**  
 🔹 **Target Domain:** Compiler development with a focus on **RISC-V architecture**.  
@@ -19,7 +19,7 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ---
 
-## 🧠 **Topic Modeling Techniques Used**  
+## 🧠 **Topic Modelling Techniques Used**  
 
 🔹 **LDA** (Latent Dirichlet Allocation) – Probabilistic topic modeling  
 🔹 **NMF** (Non-Negative Matrix Factorization) – Matrix factorization-based topic extraction  
