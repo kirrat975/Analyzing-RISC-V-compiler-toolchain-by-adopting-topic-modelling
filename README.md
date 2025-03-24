@@ -15,7 +15,7 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 ✅ **Topic Modelling:** Applies different techniques to find hidden topics in **commits and mailing lists**.  
 ✅ **Evaluation Metrics:** Evaluates topic quality using **Coherence (CV, C_NPMI, U_Mass) and Topic Diversity**.  
 ✅ **NLP Processing:** Preprocesses text via **tokenization, lemmatization, removal of unnecessary texts and stopwords(English and custom) removal**.  
-✅ **Visualization:** Uses **graphs and word clouds** for **intuitive topic interpretation** and Exploratory Data Analysis(EDA) for insights about datasets.  
+✅ **Visualization:** Uses **graphs and word clouds** for **intuitive topic interpretation** and Exploratory Data Analysis (EDA) for insights about datasets.  
 
 ---
 
@@ -45,7 +45,7 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 ✔ **Metadata (authors, timestamps, files changed, etc.)**  
 
 📌 **GCC Mailing Lists** – Collected using **Requests** and **BeautifulSoup** libraries, capturing:  
-✔ **Developer conversations(mails)**  
+✔ **Developer conversations  (mails)**  
 ✔ **Patch submissions**  
 
 ---
