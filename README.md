@@ -21,12 +21,12 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ## 🧠 **Topic Modelling Techniques Used**  
 
-🔹 **LDA** (Latent Dirichlet Allocation) – Probabilistic topic modeling  
+🔹 **LDA** (Latent Dirichlet Allocation) – Probabilistic topic modelling  
 🔹 **NMF** (Non-Negative Matrix Factorization) – Matrix factorization-based topic extraction  
 🔹 **LSA** (Latent Semantic Analysis) – Singular Value Decomposition for topic identification  
 🔹 **Top2Vec** – Unsupervised topic discovery using **Doc2Vec** representation  
 🔹 **Word2Vec** – Embeddings for **semantic similarity** between words  
-🔹 **CTM** (Correlated Topic Modeling) –Gives topics on basis of correlation
+🔹 **CTM** (Correlated Topic Modelling) –Gives topics on basis of correlation
 
 ---
 
@@ -80,7 +80,7 @@ OCTIS
 Launch Jupyter Notebook and execute the cells to:  
 
 ✔ **Extract and preprocess data**  
-✔ **Perform topic modeling**  
+✔ **Perform topic modelling**  
 ✔ **Retrieve relevant information using Whoosh**  
 ✔ **Visualize results**  
 
