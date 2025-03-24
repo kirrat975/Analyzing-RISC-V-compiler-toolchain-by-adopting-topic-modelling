@@ -1,5 +1,5 @@
 
-# 🚀 Analyzing RISCV compiler toolchain by adopting topic modelling 
+# 🚀 Analyzing RISC-V compiler toolchain by adopting topic modelling 
 
 This study explores **GitHub repositories** and **mailing lists** to obtain key insights using **topic modeling** and **data retrieval techniques**. It aims to assist developers in **domains with limited tutorials or documentation**, where GitHub and mailing lists are the **primary sources of knowledge**.  
 
@@ -39,7 +39,7 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ## 📂 **Data Sources**  
 
-📌 **RISCV GNU Toolchain GitHub repository** – Extracted using **Pydriller** library, including:  
+📌 **RISC-V GNU Toolchain GitHub repository** – Extracted using **Pydriller** library, including:  
 ✔ **Commit messages**  
 ✔ **Patches**  
 ✔ **Metadata (authors, timestamps, files changed, etc.)**  
@@ -54,8 +54,8 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/kirrat975/Analyzing-RISCV-compiler-toolchain-by-adopting-topic-modelling.git
-cd Analyzing-RISCV-compiler-toolchain-by-adopting-topic-modelling
+git clone https://github.com/kirrat975/Analyzing-RISC-V-compiler-toolchain-by-adopting-topic-modelling.git
+cd Analyzing-RISC-V-compiler-toolchain-by-adopting-topic-modelling
 
 ```
 
