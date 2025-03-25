@@ -54,8 +54,8 @@ This study explores **GitHub repositories** and **mailing lists** to obtain key 
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/kirrat975/Analyzing-RISC-V-compiler-toolchain-by-adopting-topic-modelling.git
-cd Analyzing-RISC-V-compiler-toolchain-by-adopting-topic-modelling
+git clone https://github.com/kirrat975/Analyzing-compiler-toolchain.git
+cd Analyzing-compiler-toolchain
 
 ```
 
